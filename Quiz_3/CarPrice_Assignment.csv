@@ -1,0 +1,206 @@
+car_ID,CarName,fueltype,horsepower,peakrpm,citympg,highwaympg,price
+1,alfa-romero giulia,gas,111,5000,21,27,13495
+2,alfa-romero stelvio,gas,111,5000,21,27,16500
+3,alfa-romero Quadrifoglio,gas,154,5000,19,26,16500
+4,audi 100 ls,gas,102,5500,24,30,13950
+5,audi 100ls,gas,115,5500,18,22,17450
+6,audi fox,gas,110,5500,19,25,15250
+7,audi 100ls,gas,110,5500,19,25,17710
+8,audi 5000,gas,110,5500,19,25,18920
+9,audi 4000,gas,140,5500,17,20,23875
+10,audi 5000s (diesel),gas,160,5500,16,22,17859.167
+11,bmw 320i,gas,101,5800,23,29,16430
+12,bmw 320i,gas,101,5800,23,29,16925
+13,bmw x1,gas,121,4250,21,28,20970
+14,bmw x3,gas,121,4250,21,28,21105
+15,bmw z4,gas,121,4250,20,25,24565
+16,bmw x4,gas,182,5400,16,22,30760
+17,bmw x5,gas,182,5400,16,22,41315
+18,bmw x3,gas,182,5400,15,20,36880
+19,chevrolet impala,gas,48,5100,47,53,5151
+20,chevrolet monte carlo,gas,70,5400,38,43,6295
+21,chevrolet vega 2300,gas,70,5400,38,43,6575
+22,dodge rampage,gas,68,5500,37,41,5572
+23,dodge challenger se,gas,68,5500,31,38,6377
+24,dodge d200,gas,102,5500,24,30,7957
+25,dodge monaco (sw),gas,68,5500,31,38,6229
+26,dodge colt hardtop,gas,68,5500,31,38,6692
+27,dodge colt (sw),gas,68,5500,31,38,7609
+28,dodge coronet custom,gas,102,5500,24,30,8558
+29,dodge dart custom,gas,88,5000,24,30,8921
+30,dodge coronet custom (sw),gas,145,5000,19,24,12964
+31,honda civic,gas,58,4800,49,54,6479
+32,honda civic cvcc,gas,76,6000,31,38,6855
+33,honda civic,gas,60,5500,38,42,5399
+34,honda accord cvcc,gas,76,6000,30,34,6529
+35,honda civic cvcc,gas,76,6000,30,34,7129
+36,honda accord lx,gas,76,6000,30,34,7295
+37,honda civic 1500 gl,gas,76,6000,30,34,7295
+38,honda accord,gas,86,5800,27,33,7895
+39,honda civic 1300,gas,86,5800,27,33,9095
+40,honda prelude,gas,86,5800,27,33,8845
+41,honda accord,gas,86,5800,27,33,10295
+42,honda civic,gas,101,5800,24,28,12945
+43,honda civic (auto),gas,100,5500,25,31,10345
+44,isuzu MU-X,gas,78,4800,24,29,6785
+45,isuzu D-Max ,gas,70,5400,38,43,8916.5
+46,isuzu D-Max V-Cross,gas,70,5400,38,43,8916.5
+47,isuzu D-Max ,gas,90,5000,24,29,11048
+48,jaguar xj,gas,176,4750,15,19,32250
+49,jaguar xf,gas,176,4750,15,19,35550
+50,jaguar xk,gas,262,5000,13,17,36000
+51,maxda rx3,gas,68,5000,30,31,5195
+52,maxda glc deluxe,gas,68,5000,31,38,6095
+53,mazda rx2 coupe,gas,68,5000,31,38,6795
+54,mazda rx-4,gas,68,5000,31,38,6695
+55,mazda glc deluxe,gas,68,5000,31,38,7395
+56,mazda 626,gas,101,6000,17,23,10945
+57,mazda glc,gas,101,6000,17,23,11845
+58,mazda rx-7 gs,gas,101,6000,17,23,13645
+59,mazda glc 4,gas,135,6000,16,23,15645
+60,mazda 626,gas,84,4800,26,32,8845
+61,mazda glc custom l,gas,84,4800,26,32,8495
+62,mazda glc custom,gas,84,4800,26,32,10595
+63,mazda rx-4,gas,84,4800,26,32,10245
+64,mazda glc deluxe,diesel,64,4650,36,42,10795
+65,mazda 626,gas,84,4800,26,32,11245
+66,mazda glc,gas,120,5000,19,27,18280
+67,mazda rx-7 gs,diesel,72,4200,31,39,18344
+68,buick electra 225 custom,diesel,123,4350,22,25,25552
+69,buick century luxus (sw),diesel,123,4350,22,25,28248
+70,buick century,diesel,123,4350,22,25,28176
+71,buick skyhawk,diesel,123,4350,22,25,31600
+72,buick opel isuzu deluxe,gas,155,4750,16,18,34184
+73,buick skylark,gas,155,4750,16,18,35056
+74,buick century special,gas,184,4500,14,16,40960
+75,buick regal sport coupe (turbo),gas,184,4500,14,16,45400
+76,mercury cougar,gas,175,5000,19,24,16503
+77,mitsubishi mirage,gas,68,5500,37,41,5389
+78,mitsubishi lancer,gas,68,5500,31,38,6189
+79,mitsubishi outlander,gas,68,5500,31,38,6669
+80,mitsubishi g4,gas,102,5500,24,30,7689
+81,mitsubishi mirage g4,gas,116,5500,23,30,9959
+82,mitsubishi g4,gas,88,5000,25,32,8499
+83,mitsubishi outlander,gas,145,5000,19,24,12629
+84,mitsubishi g4,gas,145,5000,19,24,14869
+85,mitsubishi mirage g4,gas,145,5000,19,24,14489
+86,mitsubishi montero,gas,88,5000,25,32,6989
+87,mitsubishi pajero,gas,88,5000,25,32,8189
+88,mitsubishi outlander,gas,116,5500,23,30,9279
+89,mitsubishi mirage g4,gas,116,5500,23,30,9279
+90,Nissan versa,gas,69,5200,31,37,5499
+91,nissan gt-r,diesel,55,4800,45,50,7099
+92,nissan rogue,gas,69,5200,31,37,6649
+93,nissan latio,gas,69,5200,31,37,6849
+94,nissan titan,gas,69,5200,31,37,7349
+95,nissan leaf,gas,69,5200,31,37,7299
+96,nissan juke,gas,69,5200,31,37,7799
+97,nissan latio,gas,69,5200,31,37,7499
+98,nissan note,gas,69,5200,31,37,7999
+99,nissan clipper,gas,69,5200,31,37,8249
+100,nissan rogue,gas,97,5200,27,34,8949
+101,nissan nv200,gas,97,5200,27,34,9549
+102,nissan dayz,gas,152,5200,17,22,13499
+103,nissan fuga,gas,152,5200,17,22,14399
+104,nissan otti,gas,152,5200,19,25,13499
+105,nissan teana,gas,160,5200,19,25,17199
+106,nissan kicks,gas,200,5200,17,23,19699
+107,nissan clipper,gas,160,5200,19,25,18399
+108,peugeot 504,gas,97,5000,19,24,11900
+109,peugeot 304,diesel,95,4150,28,33,13200
+110,peugeot 504 (sw),gas,97,5000,19,24,12440
+111,peugeot 504,diesel,95,4150,25,25,13860
+112,peugeot 504,gas,95,5000,19,24,15580
+113,peugeot 604sl,diesel,95,4150,28,33,16900
+114,peugeot 504,gas,95,5000,19,24,16695
+115,peugeot 505s turbo diesel,diesel,95,4150,25,25,17075
+116,peugeot 504,gas,97,5000,19,24,16630
+117,peugeot 504,diesel,95,4150,28,33,17950
+118,peugeot 604sl,gas,142,5600,18,24,18150
+119,plymouth fury iii,gas,68,5500,37,41,5572
+120,plymouth cricket,gas,102,5500,24,30,7957
+121,plymouth fury iii,gas,68,5500,31,38,6229
+122,plymouth satellite custom (sw),gas,68,5500,31,38,6692
+123,plymouth fury gran sedan,gas,68,5500,31,38,7609
+124,plymouth valiant,gas,88,5000,24,30,8921
+125,plymouth duster,gas,145,5000,19,24,12764
+126,porsche macan,gas,143,5500,19,27,22018
+127,porcshce panamera,gas,207,5900,17,25,32528
+128,porsche cayenne,gas,207,5900,17,25,34028
+129,porsche boxter,gas,207,5900,17,25,37028
+130,porsche cayenne,gas,288,5750,17,28,31400.5
+131,renault 12tl,gas,90,5100,23,31,9295
+132,renault 5 gtl,gas,90,5100,23,31,9895
+133,saab 99e,gas,110,5250,21,28,11850
+134,saab 99le,gas,110,5250,21,28,12170
+135,saab 99le,gas,110,5250,21,28,15040
+136,saab 99gle,gas,110,5250,21,28,15510
+137,saab 99gle,gas,160,5500,19,26,18150
+138,saab 99e,gas,160,5500,19,26,18620
+139,subaru,gas,69,4900,31,36,5118
+140,subaru dl,gas,73,4400,26,31,7053
+141,subaru dl,gas,73,4400,26,31,7603
+142,subaru,gas,82,4800,32,37,7126
+143,subaru brz,gas,82,4400,28,33,7775
+144,subaru baja,gas,94,5200,26,32,9960
+145,subaru r1,gas,82,4800,24,25,9233
+146,subaru r2,gas,111,4800,24,29,11259
+147,subaru trezia,gas,82,4800,28,32,7463
+148,subaru tribeca,gas,94,5200,25,31,10198
+149,subaru dl,gas,82,4800,23,29,8013
+150,subaru dl,gas,111,4800,23,23,11694
+151,toyota corona mark ii,gas,62,4800,35,39,5348
+152,toyota corona,gas,62,4800,31,38,6338
+153,toyota corolla 1200,gas,62,4800,31,38,6488
+154,toyota corona hardtop,gas,62,4800,31,37,6918
+155,toyota corolla 1600 (sw),gas,62,4800,27,32,7898
+156,toyota carina,gas,62,4800,27,32,8778
+157,toyota mark ii,gas,70,4800,30,37,6938
+158,toyota corolla 1200,gas,70,4800,30,37,7198
+159,toyota corona,diesel,56,4500,34,36,7898
+160,toyota corolla,diesel,56,4500,38,47,7788
+161,toyota corona,gas,70,4800,38,47,7738
+162,toyota corolla,gas,70,4800,28,34,8358
+163,toyota mark ii,gas,70,4800,28,34,9258
+164,toyota corolla liftback,gas,70,4800,29,34,8058
+165,toyota corona,gas,70,4800,29,34,8238
+166,toyota celica gt liftback,gas,112,6600,26,29,9298
+167,toyota corolla tercel,gas,112,6600,26,29,9538
+168,toyota corona liftback,gas,116,4800,24,30,8449
+169,toyota corolla,gas,116,4800,24,30,9639
+170,toyota starlet,gas,116,4800,24,30,9989
+171,toyota tercel,gas,116,4800,24,30,11199
+172,toyota corolla,gas,116,4800,24,30,11549
+173,toyota cressida,gas,116,4800,24,30,17669
+174,toyota corolla,gas,92,4200,29,34,8948
+175,toyota celica gt,diesel,73,4500,30,33,10698
+176,toyota corona,gas,92,4200,27,32,9988
+177,toyota corolla,gas,92,4200,27,32,10898
+178,toyota mark ii,gas,92,4200,27,32,11248
+179,toyota corolla liftback,gas,161,5200,20,24,16558
+180,toyota corona,gas,161,5200,19,24,15998
+181,toyota starlet,gas,156,5200,20,24,15690
+182,toyouta tercel,gas,156,5200,19,24,15750
+183,vokswagen rabbit,diesel,52,4800,37,46,7775
+184,volkswagen 1131 deluxe sedan,gas,85,5250,27,34,7975
+185,volkswagen model 111,diesel,52,4800,37,46,7995
+186,volkswagen type 3,gas,85,5250,27,34,8195
+187,volkswagen 411 (sw),gas,85,5250,27,34,8495
+188,volkswagen super beetle,diesel,68,4500,37,42,9495
+189,volkswagen dasher,gas,100,5500,26,32,9995
+190,vw dasher,gas,90,5500,24,29,11595
+191,vw rabbit,gas,90,5500,24,29,9980
+192,volkswagen rabbit,gas,110,5500,19,24,13295
+193,volkswagen rabbit custom,diesel,68,4500,33,38,13845
+194,volkswagen dasher,gas,88,5500,25,31,12290
+195,volvo 145e (sw),gas,114,5400,23,28,12940
+196,volvo 144ea,gas,114,5400,23,28,13415
+197,volvo 244dl,gas,114,5400,24,28,15985
+198,volvo 245,gas,114,5400,24,28,16515
+199,volvo 264gl,gas,162,5100,17,22,18420
+200,volvo diesel,gas,162,5100,17,22,18950
+201,volvo 145e (sw),gas,114,5400,23,28,16845
+202,volvo 144ea,gas,160,5300,19,25,19045
+203,volvo 244dl,gas,134,5500,18,23,21485
+204,volvo 246,diesel,106,4800,26,27,22470
+205,volvo 264gl,gas,114,5400,19,25,22625
